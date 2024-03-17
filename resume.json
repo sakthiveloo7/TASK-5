@@ -1,0 +1,28 @@
+{
+    "name": "Sakthivel",
+    "title": "MERN Full Stack Development Learner",
+    "address": "No.3 1st floor otteri saalai puzhuthivakkam chennai tamilnadu - 600091",
+    "birthDate": "25/05/2002",
+    "contact": {
+        "email": "sakthivelselvaraj68@gmil.com",
+        "phone": "+91 9150167003"
+    },
+    "summary": "Eager and motivated learner currently pursuing MERN Full Stack Development from Guvi Geek Network Pvt. Ltd. Possess a Bachelor of Business Administration degree from T.M.G College of Arts & Science with a solid foundation in business principles. Proficient in JavaScript, HTML, and CSS. Fluent in both Tamil and English. Passionate about leveraging technology to develop innovative solutions and contribute to the tech industry.",
+    "education": [
+        {
+            "degree": "Bachelor of Business Administration",
+            "institution": "T.M.G College of Arts & Science",
+            "location": "Manimangalam, Tambaram, Tamilnadu",
+            "percentage": "63%"
+        },
+        {
+            "course": "MERN - Full Stack Development",
+            "institution": "Guvi Geek Network Pvt. Ltd",
+            "location": "Chennai",
+            "dates": "Current Batch",
+            "percentage": "N/A"
+        }
+    ],
+    "skills": ["JavaScript", "HTML", "CSS"],
+    "languages": ["Tamil", "English"]
+}
